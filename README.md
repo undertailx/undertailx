@@ -18,7 +18,7 @@ I'm a **beginner web developer** passionate about learning and building web appl
 </p>
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undertailx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undertailx&layout=compact&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://github.com/undertailx/undertailx/blob/main/cat.gif" width="35" /> Currently Learning:
 - **React.js**
