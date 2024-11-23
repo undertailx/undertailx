@@ -27,4 +27,4 @@ I'm a **beginner web developer** passionate about learning and building web appl
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=undertailx&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=undertailx&style=flat&exclude=127.0.0.1)
