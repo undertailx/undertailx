@@ -1,6 +1,6 @@
 # Hello, I'm undertailx!
 
-I'm a **beginner web developer** passionate about learning and building web applications. I enjoy sharing knowledge and exploring new tools and technologies. Let's learn together! <img src="https://github.com/undertailx/undertailx/blob/main/diamond.gif" width="20" />
+I'm a **beginner web developer** passionate about learning and building web applications. I enjoy sharing knowledge and exploring new tools and technologies. I work primarily on **Linux Ubuntu**, and I'm always eager to explore more! Let's learn together! <img src="https://github.com/undertailx/undertailx/blob/main/diamond.gif" width="20" />
 
 ## Languages and Tools:
 <p align="left">
@@ -15,6 +15,7 @@ I'm a **beginner web developer** passionate about learning and building web appl
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ## Top Languages:
@@ -24,6 +25,7 @@ I'm a **beginner web developer** passionate about learning and building web appl
 - **React.js**
 - **Full-stack Development**
 - **Web Performance Optimization**
+- **Linux Ubuntu Administration**
 
 ---
 
